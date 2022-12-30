@@ -1,4 +1,4 @@
-# Docker homework #1
+# Docker homework #2
 Порядок запуска контейнера:
 1. Находясь в корневой директории, создайте образ: выполните команду sudo docker build .
 2. Выполните команду sudo docker image ls и скопируйте IMAGE ID созданного образа или скопируйте IMAGE ID
